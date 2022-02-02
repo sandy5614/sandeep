@@ -1,0 +1,41 @@
+[3] 2:46:17 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Demowebshoptricentis\Demowebshoptricentis.tws'
+[3] 2:46:17 PM: Log level: 4
+[3] 2:46:17 PM: Release: 14.2.0.36604
+[3] 2:46:18 PM: No service discovery configured.
+[3] 2:46:18 PM:  - CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 14.2.0.271 (36571)
+[3] 2:46:18 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 14.2.0.271 (36422)
+    - : QTestIntegration 14.2.2.155 (155)
+    + : SAPSolutionManagerIntegration 14.2.2.155 (155)
+[3] 2:46:18 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 2:46:18 PM: Searcher found 0 results in 0 ms
+[3] 2:46:18 PM:  + OptIntAddIn: OptIntAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 14.2.0.271 (36486)
+[3] 2:46:18 PM:  + RemoteControl: RemoteControlAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + Reporting: ReportingAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + ReportingUI: ReportingUIAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + RequirementsManagementAddIn: RequirementsManagement 14.2.0.271 (36712)
+[3] 2:46:18 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 14.2.0.271 (36708)
+[3] 2:46:18 PM:  + TestCaseDesign: TestCaseDesign 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 14.2.0.271 (36303)
+[3] 2:46:18 PM:  + XDefinitions: XDefinitions 14.2.0.271 (36576)
+[3] 2:46:18 PM:  + XDefinitionsUI: XDefinitionsUI 14.2.0.271 (36460)
+[3] 2:46:18 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Demowebshoptricentis\Demowebshoptricentis.tws'
+[3] 2:46:23 PM: Error getting ldap domain: The specified domain does not exist or cannot be contacted.
+[3] 2:46:23 PM: Trying to authenticate ldap user Sandeep Patil against workspace
+[3] 2:46:28 PM: Error getting ldap domain: The specified domain does not exist or cannot be contacted.
+[3] 2:46:28 PM: Error getting NativeID From WindowsUserSystem.Runtime.InteropServices.COMException (0x80005000): Unknown error (0x80005000)
+   at System.DirectoryServices.DirectoryEntry.Bind(Boolean throwIfFail)
+   at System.DirectoryServices.DirectoryEntry.Bind()
+   at System.DirectoryServices.DirectoryEntry.get_AdsObject()
+   at System.DirectoryServices.DirectorySearcher.FindAll(Boolean findMoreThanOne)
+   at System.DirectoryServices.DirectorySearcher.FindOne()
+   at Tricentis.TCCore.Base.Ownership.LDAP.LDAPAuthentication.getNativeID(String username, String domainname, String password, Boolean processIdentityMustMatch)
+[3] 2:46:28 PM: Failed to authenticate ldap user against workspace
+[4] 2:46:28 PM:  ShowStatusInfo: 'Ready'
+[3] 2:46:32 PM: Layout not saved: No Panels or Tabbed Documents
+[3] 2:46:32 PM: Closing Workspace!
+[3] 2:46:34 PM: Log closed!

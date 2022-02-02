@@ -1,0 +1,13 @@
+[3] 2:46:34 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Demowebshoptricentis\Demowebshoptricentis.tws'
+[3] 2:46:34 PM: Log level: 4
+[3] 2:46:34 PM: Release: 14.2.0.36604
+[4] 2:46:34 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:46:34 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 2:46:34 PM: OpenWorkspace took 00:00:17.1693120 to finish
+[4] 2:46:39 PM:  ShowStatusInfo: 'Ready'
+[4] 2:47:01 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:47:01 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:47:01 PM:  ShowStatusInfo: 'Ready'
+[4] 2:47:05 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:47:05 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:47:10 PM:  ShowStatusInfo: 'Ready'
